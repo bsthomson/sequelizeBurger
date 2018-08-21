@@ -1,0 +1,25 @@
+body {
+    background-image: url("../img/hotdog.jpg");
+}
+
+li {
+    background: yellow;
+    width: 50%;
+}
+
+h1 {
+    background: green;
+}
+
+h2 {
+    background: red;
+    width: 50%;
+}
+
+.create-form {
+    background: white;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    width: 30%
+}
