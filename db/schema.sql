@@ -1,8 +1,8 @@
-DROP DATABASE burgers_db;
+DROP DATABASE seqburgers_db;
 
-CREATE DATABASE burgers_db;
+CREATE DATABASE seqburgers_db;
 
-USE burgers_db;
+USE seqburgers_db;
 
 CREATE TABLE burgers (
     id INT NOT NULL AUTO_INCREMENT,
